@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="abd — about time finance got interesting. Accounting & finance student at Sunway University, building at the overlap of finance, startups and AI." />
+<a href="https://iabd.dev"><img src="assets/overworld-hero.svg" width="100%" alt="Hello, I'm abd. I build tools, bots, plugins and the odd game. Some for money, most for fun." /></a>
 
-<a href="https://abdullahafaq.com"><img src="assets/footer.svg" width="100%" alt="see you in the green — abdullahafaq.com" /></a>
+<a href="https://iabd.dev"><img src="assets/overworld-footer.svg" width="100%" alt="You made it to the bottom. Let's build something — iabd.dev" /></a>
 
 </div>
